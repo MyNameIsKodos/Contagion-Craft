@@ -65,3 +65,6 @@ Once you have the blood sample, you'll want to isolate the contagion within the 
 ### Step 4: Clean (Blood) Sweep!
 
 Once antibody creation occurs (Usually in 1-2 minutes after radium injection), you'll draw a sample of the second mob's blood and use _that_ blood in the Isolation Centrifuge to isolate the Antibodies needed to cure that particular virus. Once isolated, you will be able to dilute them into water and create vaccines as needed
+
+## License
+It's licensed under CC0 1.0 aka Public Domain. In other words do whatever you like.
