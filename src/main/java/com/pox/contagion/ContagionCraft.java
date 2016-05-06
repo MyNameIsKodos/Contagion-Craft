@@ -25,7 +25,6 @@ public class ContagionCraft
     public void preinit(FMLPreInitializationEvent event)
     {
         LogHelper.info("Pre Initialization Complete");
-
     }
 
     @Mod.EventHandler
